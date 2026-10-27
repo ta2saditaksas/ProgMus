@@ -7,5 +7,5 @@
 // La clé anon est faite pour être publique : ce sont les règles RLS de
 // supabase/schema.sql qui protègent tes données.
 
-export const SUPABASE_URL = "";
+export const SUPABASE_URL = "https://cjldaahljurkqtxizodv.supabase.co/rest/v1/";
 export const SUPABASE_ANON_KEY = "";
